@@ -40,91 +40,119 @@ I aim to grow into an engineer capable of building **large-scale intelligent sys
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c" height="50"/> C
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/> C++
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="50"/> Java
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="50"/> Python
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/> JavaScript
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br>
+<b>C</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+<b>C++</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>
+<b>Java</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+<b>Python</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>
+<b>JavaScript</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" height="50"/> HTML
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="50"/> CSS
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/> Bootstrap
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/> NodeJS
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="50"/> Express
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django" height="50"/> Django
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+<b>HTML</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+<b>CSS</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
+<b>Bootstrap</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
+<b>NodeJS</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=express" width="50"/><br>
+<b>Express</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=django" width="50"/><br>
+<b>Django</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/> MongoDB
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/> MySQL
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
+<b>MongoDB</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<b>MySQL</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="50"/> Git
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="50"/> GitHub
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/> VS Code
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<b>Git</b>
+</td>
 
-## 📊 GitHub Analytics
+<td>
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<b>GitHub</b>
+</td>
 
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=shubham-tankariya-01&show_icons=true&theme=radical"/>
-
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-tankariya-01&theme=radical"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubham-tankariya-01&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
+<td>
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+<b>VS Code</b>
+</td>
+</tr>
+</table>
 
 ## 💡 Engineering Philosophy
 
-> “A great engineer is not defined by the number of tools they use,  
-> but by the depth of their understanding of the systems they build.”
-
-I believe the most powerful developers focus on:
-
-- mastering **fundamentals**
-- understanding **how systems work internally**
-- building **clean and scalable solutions**
-- continuously improving their thinking
-
 ---
+[![](https://visitcount.itsvg.in/api?id=shubham-tankariya-01&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 📈 Profile Visitors
 
