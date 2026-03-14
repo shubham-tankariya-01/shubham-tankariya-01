@@ -40,21 +40,57 @@ I aim to grow into an engineer capable of building **large-scale intelligent sys
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+<p>
+<img src="https://skillicons.dev/icons?i=c" height="50"/> C
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/> C++
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="50"/> Java
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="50"/> Python
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/> JavaScript
+</p>
+
+---
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express,django" />
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="50"/> HTML
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="50"/> CSS
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/> Bootstrap
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/> NodeJS
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="50"/> Express
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" height="50"/> Django
+</p>
+
+---
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/> MongoDB
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/> MySQL
+</p>
 
 ---
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="50"/> Git
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="50"/> GitHub
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/> VS Code
+</p>
 
 ## 📊 GitHub Analytics
 
