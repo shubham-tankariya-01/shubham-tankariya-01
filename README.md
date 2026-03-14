@@ -148,10 +148,41 @@ I aim to grow into an engineer capable of building **large-scale intelligent sys
 </tr>
 </table>
 
-## 💡 Engineering Philosophy
+<h2 align="center">🧠 Engineering Philosophy</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=shubham-tankariya-01&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<i>"The best engineers are not defined by the tools they use,<br>
+but by the depth of their understanding of the systems they build."</i>
+</p>
+
+<table align="center">
+<tr>
+<td width="600">
+
+I believe software engineering is not about chasing frameworks or trends.  
+True engineering comes from **understanding how systems work internally**.
+
+My approach focuses on:
+
+⚙️ <b>Strong Fundamentals</b>  
+Understanding core computer science concepts that power modern systems.
+
+🧩 <b>System Thinking</b>  
+Seeing software as interconnected components rather than isolated code.
+
+🧠 <b>Problem Solving</b>  
+Designing efficient, scalable, and maintainable solutions.
+
+📈 <b>Continuous Growth</b>  
+Learning new technologies while staying grounded in fundamental principles.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<b>Goal:</b> Build large-scale backend systems and intelligent software powered by modern AI technologies.
+</p>
 
 
 ## 📈 Profile Visitors
